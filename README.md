@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **MERN , Data Science**
 
