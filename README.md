@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **MERN Stack, Data Science**
+- 💬 Ask me about **MERN Stack, Data Science, Python Programming**
 
 - 📫 How to reach me **vanshajkumar145@gmail.com**
 
