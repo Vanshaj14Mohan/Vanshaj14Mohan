@@ -18,6 +18,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vanshajpmohan/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <p>On Linkedin</p>
     </a>
 </p>
 
