@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vanshaj P Mohan</h1>
 <h3 align="center">A passionate Data Science and Web Development enthusiast from India.</h3>
+<img align="right" width="400" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg" alt="vanshaj14mohan">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshaj14mohan&label=Profile%20views&color=0e75b6&style=flat" alt="vanshaj14mohan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshaj14mohan" alt="vanshaj14mohan" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science**
 
