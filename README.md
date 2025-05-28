@@ -1,6 +1,3 @@
-Here's your fully updated GitHub README code with the **Flask icon added just before the Git icon**, as requested:
-
-```html
 <h1 align="center">Hi 👋, I'm Vanshaj P Mohan</h1>
 <h3 align="center">A passionate Data Science and Web Development enthusiast from India.</h3>
 <img align="right" width="400" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg" alt="vanshaj14mohan">
@@ -61,6 +58,3 @@ Here's your fully updated GitHub README code with the **Flask icon added just be
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshaj14mohan&show_icons=true&locale=en" alt="vanshaj14mohan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshaj14mohan&" alt="vanshaj14mohan" /></p>
-```
-
-Let me know if you want icons grouped (e.g., all Python-related tools together) or if you'd like to style or organize it differently!
