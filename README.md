@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Advanced Excel and Tableau**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **Python Data Science, MERN Stack**
 
