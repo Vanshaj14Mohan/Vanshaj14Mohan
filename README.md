@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python Data Science, MERN Stack**
 
-- 💬 Ask me about **MERN Stack, Data Science, Python, JavaScript, C, C++, SQL**
+- 💬 Ask me about **MERN Stack, Data Science, Python, JavaScript, C, C++, SQL, Excel**
 
 - 📫 How to reach me **Vanshajkumar145@gmail.com**
 
