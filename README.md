@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI & ML**
 
-- 👯 I’m looking to collaborate on **Python Data Science, MERN Stack, Data Analytics, Power BI**
+- 👯 I’m looking to collaborate on **Python Data Science, MERN Stack, Data Analytics, Power BI.**
 
 - 💬 Ask me about **MERN Stack, Data Science, Python, JavaScript, C, C++, SQL, Excel**
 
