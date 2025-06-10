@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshaj14mohan&label=Profile%20views&color=0e75b6&style=flat" alt="vanshaj14mohan" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science.**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **AI & ML.**
 
 - 👯 I’m looking to collaborate on **Python Data Science, MERN Stack, Data Analytics, Power BI.**
 
-- 💬 Ask me about **MERN Stack, Data Science, Python, JavaScript, C, C++, SQL, Excel**
+- 💬 Ask me about **MERN Stack, Data Science, Python, JavaScript, C, C++, SQL, Excel.**
 
-- 📫 How to reach me **Vanshajkumar145@gmail.com**
+- 📫 How to reach me **Vanshajkumar145@gmail.com.**
 
 - ⚡ Fun fact **I spend so much time learning new things thus I fear there is no rest for me.**
 
