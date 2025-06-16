@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science.**
 
-- 🌱 I’m currently learning **AI & ML.**
+- 🌱 I’m currently learning **AI/ML & Dashboards.**
 
 - 👯 I’m looking to collaborate on **Python Data Science, MERN Stack, Data Analytics, Power BI.**
 
