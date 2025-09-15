@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshaj14mohan&label=Profile%20views&color=0e75b6&style=flat" alt="vanshaj14mohan" /> </p>
 
-- 🔭 I’m currently working on **Image Processing and Computer Vision using OpenCV**
+- 🔭 I’m currently working on **Image Processing and Computer Vision**
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
