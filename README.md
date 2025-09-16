@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Image Processing and Computer Vision and OpenCV**
 
-- 🌱 I’m currently learning **Advanced Computer Vision and Robotics**
+- 🌱 I’m currently learning **Advanced Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Science, MERN Stack, Data Analytics, Power BI Projects.**
 
