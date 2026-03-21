@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshaj14mohan&label=Profile%20views&color=0e75b6&style=flat" alt="vanshaj14mohan" /> </p>
 
-- 🔭 I’m currently working on **Image Processing and Computer Vision and OpenCV**
+- 🔭 I’m currently working on **AI/ML and Data Science**
 
-- 🌱 I’m currently learning **Advanced Computer Vision**
+- 🌱 I’m currently learning **Advanced Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science, MERN Stack, Data Analytics, Power BI Projects.**
 
