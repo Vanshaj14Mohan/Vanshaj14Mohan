@@ -22,8 +22,8 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/vanshajpmohan"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://instagram.com/vanshaj.681"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://x.com/VanshajKum1406"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://instagram.com/vanshaj.681"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
