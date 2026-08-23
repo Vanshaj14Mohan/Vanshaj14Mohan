@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshaj14mohan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -30,7 +29,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,react,nodejs,express,mongodb,mysql,git,bootstrap,tailwind,tensorflow,pytorch,opencv" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -39,7 +37,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshaj14mohan&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Most Used Languages
