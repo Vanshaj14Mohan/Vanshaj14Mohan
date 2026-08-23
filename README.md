@@ -16,7 +16,6 @@
 - 💬 Ask me about **Data Science, Python, JavaScript, C/C++, SQL, Machine Learning, Tableau, Advanced Excel, REST API**
 - 📫 Reach me at **Vanshajkumar145@gmail.com**
 - ⚡ Fun fact: *I enjoy learning so much that I forget to rest 😄*
-
 ---
 
 ## 🌐 Connect With Me
@@ -25,7 +24,6 @@
   <a href="https://x.com/VanshajKum1406"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://instagram.com/vanshaj.681"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
-
 ---
 
 ## 🛠️ Languages & Tools
