@@ -17,7 +17,7 @@
 - ⚡ Fun fact: *I enjoy learning so much that I forget to rest 😄*
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me On
 <p align="center">
   <a href="https://linkedin.com/in/vanshajpmohan"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://x.com/VanshajKum1406"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
