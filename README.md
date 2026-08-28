@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg">
 
 - 🔭 Currently working on **AI/ML & Data Science**
-- 🌱 Learning **RAG Models & Machine Learning**
+- 🌱 Learning **Artificial intelligence & Machine Learning**
 - 🤝 Open to collaborate on **Data Science & Analytics, MERN Stack & Power BI Projects**
 - 💬 Ask me about **Data Science, Python, JavaScript, C/C++, SQL, Machine Learning, Tableau, Advanced Excel, REST API**
 - 📫 Reach me at **Vanshajkumar145@gmail.com**
