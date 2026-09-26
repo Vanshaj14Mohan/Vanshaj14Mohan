@@ -10,7 +10,7 @@
 ## 🚀 About Me
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg">
 
-- 🔭 Currently working on **Data Science & AI/ML**
+- 🔭 Currently working on ****
 - 🌱 Learning **Artificial intelligence & Machine Learning**
 - 🤝 Open to collaborate on **Data Science & Analytics, Power BI Projects & MERN Stack**
 - 💬 Ask me about **Data Science & Analytics, Python, JavaScript, C/C++, SQL, Machine Learning, Power BI, Tableau, REST API, Docker and Kubernetes**
