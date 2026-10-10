@@ -13,7 +13,7 @@
 - 🔭 Currently working on: **Data Science & AI/ML**
 - 🌱 Learning: **Artificial intelligence & Machine Learning**
 - 🤝 Open to collaborate on: **Data Science/Analytics & MERN Stack**
-- 💬 Ask me about: **Data Science & Analytics, Python, JavaScript, C/C++, SQL, Machine Learning, Power BI, Tableau, REST API, CI/CD Pipelines, Docker and Kubernetes**
+- 💬 Ask me about: **Data Science/Analytics, Python, JavaScript, C/C++, SQL, Machine Learning, Power BI, Tableau, REST API, CI/CD Pipelines, Docker and Kubernetes**
 - 📫 Reach me at: **Vanshajkumar145@gmail.com**
 - ⚡ Fun fact: * I enjoy learning new things so much that I forget to rest 😄*
   
