@@ -15,7 +15,7 @@
 - 🤝 Open to collaborate on: **Data Science/Analytics & MERN Stack**
 - 💬 Ask me about: **Data Science/Analytics, Python, C/C++, JavaScript, SQL, Machine Learning, Power BI, Tableau, REST API, CI/CD Pipelines, Docker and Kubernetes**
 - 📫 Reach me at: **Vanshajkumar145@gmail.com**
-- ⚡ Fun fact: * I enjoy learning new things so much that I forget to rest 😄*
+- ⚡ Fun fact: **I enjoy learning new things so much that I forget to est 😄**
   
 ---
 
